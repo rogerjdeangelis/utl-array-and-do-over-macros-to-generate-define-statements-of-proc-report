@@ -14,6 +14,23 @@ proc report data=finaldata;
 
 run;quit;
 
+github
+http://tinyurl.com/y6srlffh
+https://github.com/rogerjdeangelis/utl-array-and-do-over-macros-to-generate-define-statements-of-proc-report
+
+SAS Forum
+http://tinyurl.com/y4tj9jzv
+https://communities.sas.com/t5/ODS-and-Base-Reporting/using-loop-in-the-define-step-of-proc-report/m-p/535099
+
+macros
+https://tinyurl.com/y9nfugth
+https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
+
+For more functional barry and bdo_over macros by
+Bartosz Jablonski
+yabwon@gmail.com
+
+
 
 INPUT
 =====
